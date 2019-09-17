@@ -1,2 +1,3 @@
-# toggle-switch
-Toggle Sldier
+# toggle-switch-slider
+Toggle Switch Sldier for React Native
+React-Native

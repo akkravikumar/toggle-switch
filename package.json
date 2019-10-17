@@ -1,6 +1,7 @@
 {
   "main": "node_modules/expo/AppEntry.js",
-  "name": "Ravi Kumar Karunaithi",
+  "name": "react-native-toggle-animation-slider",
+  "version":"0.0.3",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -18,5 +19,5 @@
   "devDependencies": {
     "babel-preset-expo": "^6.0.0"
   },
-  "private": true
+  "private": false
 }
